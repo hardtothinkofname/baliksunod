@@ -29,6 +29,8 @@
 				?>
 			</tbody>
 		</table>
+
+		<!-- this is a try and the quick brown fox jumps over the head of the lazy dog -->
 		
 		<script type = "text/javascript" src = "_source/js/jquery-1.11.1.min.js"></script>
 		<script type = "text/javascript" src = "_source/bootstrap/js/bootstrap.min.js"></script>
